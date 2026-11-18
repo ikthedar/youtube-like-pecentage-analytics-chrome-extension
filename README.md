@@ -6,4 +6,4 @@ Allows user to determine whether to rely on the video based on the like/view per
 
 It also takes how much time has been passed after the video uploaded into consideration.
 
---- and that
+Then shows the overall rating.
